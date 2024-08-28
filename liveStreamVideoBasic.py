@@ -1,5 +1,4 @@
 from picamera2 import Picamera2
-import libcamera
 import cv2
 from flask import Flask, Response
 
